@@ -1,2 +1,2 @@
 This is an example to show git version control. 
-Please fill in your name:
+Please fill in your name: David Nolan
